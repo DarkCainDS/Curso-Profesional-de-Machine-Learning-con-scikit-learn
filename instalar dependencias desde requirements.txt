@@ -1,0 +1,14 @@
+les dejo un truquito:
+pueden crear un archivo llamado: requirements.txt
+y dentro ponen todo lo que necesitan de la siguiente manera(el nombre de las librerias):
+numpy
+scipy
+joblib
+pandas
+matplotlib
+scikit-learn
+
+y en su ambiente virtual ejecutan el siguiente comando:
+
+pip install -r requirements.txt
+Y así ya tienen en un archivo con los requerimientos de su proyecto y pueden ir agregando las librerías que necesiten y solo ejecutar un comando 😃
